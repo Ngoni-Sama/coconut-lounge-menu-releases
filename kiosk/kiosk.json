@@ -1,0 +1,9 @@
+{
+    "name":  "FreeKiosk",
+    "version":  "v1.2.20-beta.6",
+    "file":  "freekiosk-v2.2.20.apk",
+    "size":  62862585,
+    "sha256":  "d600703cbe9cb88174820795deace6a583102abc3473bd07d27604fae032f9f0",
+    "source":  "https://github.com/RushB-fr/freekiosk/releases/tag/v1.2.20-beta.6",
+    "license":  "MIT (see FREEKIOSK-LICENSE.txt)"
+}
